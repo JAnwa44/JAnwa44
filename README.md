@@ -2,13 +2,13 @@
 
 ### Welcome to J site
 
-<style>
+<!-- <style>
 .line {
     border-top: solid 10px;
     border-color: #E7DD13;
 }
 
-</style>
+</style> -->
 
 <!-- **JAnwa44/JAnwa44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
