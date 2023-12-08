@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-### Welcome to J site
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&center=true&multiline=true&random=false&width=500&height=100&lines=Hi+everyone;Welcome+to+J+site+" alt="Typing SVG" /></a>
+</p>
+
+<!-- ### Welcome to J site -->
 
 <!-- <style>
 .line {
@@ -12,7 +16,7 @@
 <link rel= "stylesheet" href= "path/to/code-icons/css/code-icons.min.css" >
 <!-- **JAnwa44/JAnwa44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
